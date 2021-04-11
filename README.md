@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okskust Oksana Kustova.
+- 👋 Hi, I’m Oksana Kustova.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on student projects.
